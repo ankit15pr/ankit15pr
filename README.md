@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit15pr&label=Profile%20views&color=0e75b6&style=flat" alt="ankit15pr" /> </p>
 
-- 📫 How to reach me  dont reach me **ankitparmarranila@gmail.com**
+- 📫 How to reach me **ankitparmarranila@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
